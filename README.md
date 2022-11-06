@@ -15,7 +15,6 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
 <h3 align="center">IN THE JOBS</h3>
 
   <p align="center">
