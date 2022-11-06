@@ -20,7 +20,7 @@
   <p align="center">
     An outstanding HR applicant management tool
     <br />
-    <a href="https://github.com/justintrann/inthejobs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/justintrann/inthejobs/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://inthejobs.vercel.app">View Demo</a>
@@ -64,7 +64,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 **Screenshot**
-[![Main Page][product-screenshot]]()
+[![Main Page][product-screenshot]](https://i.postimg.cc/L61SVC4y/122121.jpg)
 
 
 
